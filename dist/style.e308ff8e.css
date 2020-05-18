@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+.main-header {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: royalblue;
+    border-radius: 10px;
+}
+.article {
+    display: flex;
+    justify-content: center;
+}
+.doggos {
+    margin-bottom: 20px;
+}
+
+.btn {
+    padding: 10px;
+    background-color: sandybrown;
+    border-radius: 5px;
+    width: 90px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: red;
+    width: 170px
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #0074d9;
+    border-radius: 50%;
+}
+  
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
