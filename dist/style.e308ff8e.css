@@ -11,7 +11,7 @@ body {
     display: flex;
     text-align: center;
     justify-content: center;
-    background-color: royalblue;
+    background-color: gray;
     border-radius: 10px;
 }
 .article {
